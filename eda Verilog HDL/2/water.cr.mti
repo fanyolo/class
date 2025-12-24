@@ -1,0 +1,15 @@
+D:/Users/86187/Desktop/eda/test/water_level.v {1 {vlog -work work -vopt -stats=none D:/Users/86187/Desktop/eda/test/water_level.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module water_level
+
+Top level modules:
+	water_level
+
+} {} {}} D:/Users/86187/Desktop/eda/test/tb_water_level.v {1 {vlog -work work -vopt -stats=none D:/Users/86187/Desktop/eda/test/tb_water_level.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_water_level
+
+Top level modules:
+	tb_water_level
+
+} {} {}}

@@ -1,0 +1,28 @@
+// water_level.v
+module water_level (
+    input  wire a,   // 传感器A：水面低于A为1，高于A为0
+    input  wire b,   // 传感器B：水面低于B为1，高于B为0
+    input  wire c,   // 传感器C：水面低于C为1，高于C为0
+    output reg  G,   // 绿灯
+    output reg  Y,   // 黄灯
+    output reg  R    // 红灯
+);
+    always @* begin
+        // 缺省熄灭
+        G = 1'b0; Y = 1'b0; R = 1'b0;
+
+        // 根据(a,b,c)判定水位区间
+        case ({a,b,c})
+            3'b100: G = 1'b1;                 // A~B 正常区 → 绿灯
+            3'b110: Y = 1'b1;                 // B~C 异常区 → 黄灯
+            3'b000: Y = 1'b1;                 // A以上(过高) → 黄灯
+            3'b111: R = 1'b1;                 // C以下(危险) → 红灯
+
+            default: begin
+                // 其他不可能/瞬态/故障组合，统一判为“异常”给出黄灯告警
+                Y = 1'b1;
+            end
+        endcase
+    end
+endmodule
+
