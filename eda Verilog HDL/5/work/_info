@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim/examples
+T_opt
+!s110 1762090419
+VfDA8hHP<7lVm?Pz<hM_PV3
+04 8 4 work tb_floor fast 0
+=1-9c2dcd95d058-69075db3-139-5e1c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vfloor
+Z1 !s110 1762090399
+!i10b 1
+!s100 ?7Z:=TcBaLYH0M=<;Xl]30
+IziGB7U<5[7iYTkK@e2MJW2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Users/86187/Desktop/eda/test
+w1762090346
+8D:\Users\86187\Desktop\eda\test\floor.v
+FD:\Users\86187\Desktop\eda\test\floor.v
+L0 3
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1762090399.000000
+!s107 D:\Users\86187\Desktop\eda\test\floor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Users\86187\Desktop\eda\test\floor.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_floor
+R1
+!i10b 1
+!s100 8aNPz@V[WFiP7>oQGT7`V1
+Im;dKo?E3L@QTmcIh]4L0h3
+R2
+R3
+w1762090395
+8D:\Users\86187\Desktop\eda\test\tb_floor.v
+FD:\Users\86187\Desktop\eda\test\tb_floor.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\Users\86187\Desktop\eda\test\tb_floor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Users\86187\Desktop\eda\test\tb_floor.v|
+!i113 0
+R6
+R0
