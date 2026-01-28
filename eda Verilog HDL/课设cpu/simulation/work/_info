@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Modelsim/examples
+T_opt
+!s110 1768985779
+V5?DhgZh@`;>H<Wdkj[Mz@0
+Z1 04 11 4 work RISC16_test fast 0
+=1-9c2dcd95d058-697094b2-399-2a58
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1768985790
+VzDHJ2Qg=h83LW<UB8hcWA1
+R1
+=1-9c2dcd95d058-697094be-2d6-4b18
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+vDataRAM
+Z4 !s110 1768985769
+!i10b 1
+!s100 @S4W?S<SjcL2]]D1OSRXo2
+I;mie8U__6CK0O8h6J`gD:3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Users/86187/Desktop/EDAcpu/simulation
+w1546927114
+8D:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v
+FD:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v
+L0 3
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+Z8 !s108 1768985769.000000
+!s107 D:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@data@r@a@m
+vInstRAM
+R4
+!i10b 1
+!s100 zM;oCRI_UoHXTWkZoE@Lc3
+I8aRd5lGhnRQEKS>KBX=C`3
+R5
+R6
+w1546917082
+8D:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v
+FD:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v|
+!i113 0
+R9
+R2
+n@inst@r@a@m
+vRISC16
+R4
+!i10b 1
+!s100 X:JLa3N=429SXe3EBV>1[1
+I3UUWNH5m>2Fji4XS5To0m0
+R5
+R6
+w1736679584
+8D:/Users/86187/Desktop/EDAcpu/simulation/RISC16.v
+FD:/Users/86187/Desktop/EDAcpu/simulation/RISC16.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Users/86187/Desktop/EDAcpu/simulation/RISC16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/EDAcpu/simulation/RISC16.v|
+!i113 0
+R9
+R2
+n@r@i@s@c16
+vRISC16_test
+R4
+!i10b 1
+!s100 T2P]@I5g^4:We8=la6lV@1
+IoZ]?KEWb1jRSk?^hlOJ:S0
+R5
+R6
+w1546926990
+8D:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v
+FD:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v|
+!i113 0
+R9
+R2
+n@r@i@s@c16_test

@@ -1,0 +1,22 @@
+D:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v {1 {vlog -work work -vopt -stats=none D:/Users/86187/Desktop/EDAcpu/simulation/RISC16_test.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module RISC16_test
+
+Top level modules:
+	RISC16_test
+
+} {} {}} D:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v {1 {vlog -work work -vopt -stats=none D:/Users/86187/Desktop/EDAcpu/simulation/DataRAM.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module DataRAM
+
+Top level modules:
+	DataRAM
+
+} {} {}} D:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v {1 {vlog -work work -vopt -stats=none D:/Users/86187/Desktop/EDAcpu/simulation/InstRAM.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module InstRAM
+
+Top level modules:
+	InstRAM
+
+} {} {}}
