@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Modelsim/examples
+T_opt
+!s110 1759299864
+VFQjCLH7F59jY>K6^ia2cN0
+Z1 04 14 4 work tb_water_level fast 0
+=1-9c2dcd95d058-68dcc918-346-1770
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1759299884
+V8d9k_mnFcHO1g=a_^A_;P1
+R1
+=1-9c2dcd95d058-68dcc92c-a5-5f04
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+vtb_water_level
+Z4 !s110 1759299855
+!i10b 1
+!s100 eFI<@>Hh;T?O6Q4lzA<0>0
+I93^^il3CD=EWR1Lm?hI6a2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Users/86187/Desktop/eda/test
+w1759299846
+8D:/Users/86187/Desktop/eda/test/tb_water_level.v
+FD:/Users/86187/Desktop/eda/test/tb_water_level.v
+L0 3
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1759299854.000000
+!s107 D:/Users/86187/Desktop/eda/test/tb_water_level.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/eda/test/tb_water_level.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vwater_level
+R4
+!i10b 1
+!s100 ncGW27I@fA790k;:1d4LC0
+IHS8TaTbNF>8Jb77FT<4@O3
+R5
+R6
+w1759299827
+8D:/Users/86187/Desktop/eda/test/water_level.v
+FD:/Users/86187/Desktop/eda/test/water_level.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1759299855.000000
+!s107 D:/Users/86187/Desktop/eda/test/water_level.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Users/86187/Desktop/eda/test/water_level.v|
+!i113 0
+R8
+R2

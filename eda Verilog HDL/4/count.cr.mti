@@ -1,0 +1,15 @@
+D:/Users/86187/Desktop/eda/test/count.v {1 {vlog -work work -vopt -stats=none {D:\Users\86187\Desktop\eda\test\count.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module count
+
+Top level modules:
+	count
+
+} {} {}} D:/Users/86187/Desktop/eda/test/count_tb.v {1 {vlog -work work -vopt -stats=none {D:\Users\86187\Desktop\eda\test\count_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module count_tb
+
+Top level modules:
+	count_tb
+
+} {} {}}

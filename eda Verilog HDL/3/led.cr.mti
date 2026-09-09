@@ -1,0 +1,22 @@
+D:/Users/86187/Desktop/eda/test/tb.v {1 {vlog -work work -vopt -stats=none {D:\Users\86187\Desktop\eda\test\tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/Users/86187/Desktop/eda/test/lamp_bh.v {1 {vlog -work work -vopt -stats=none {D:\Users\86187\Desktop\eda\test\lamp_bh.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module lamp_bh
+
+Top level modules:
+	lamp_bh
+
+} {} {}} D:/Users/86187/Desktop/eda/test/lamp_df.v {1 {vlog -work work -vopt -stats=none {D:\Users\86187\Desktop\eda\test\lamp_df.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module lamp_df
+
+Top level modules:
+	lamp_df
+
+} {} {}}

@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim/examples
+T_opt
+!s110 1760250210
+Vdn?M^T;nN[YebAR8cHRfI1
+04 2 4 work tb fast 0
+=1-9c2dcd95d058-68eb4961-10a-5db0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vlamp_bh
+Z1 !s110 1760250184
+!i10b 1
+!s100 EIYe_Y<Xfl8WmB=UG4fme2
+IP0Qz4U0fJ:akA0RFcQ0A^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Users/86187/Desktop/eda/test
+w1760250134
+8D:\Users\86187\Desktop\eda\test\lamp_bh.v
+FD:\Users\86187\Desktop\eda\test\lamp_bh.v
+L0 2
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1760250184.000000
+!s107 D:\Users\86187\Desktop\eda\test\lamp_bh.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Users\86187\Desktop\eda\test\lamp_bh.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vlamp_df
+R1
+!i10b 1
+!s100 3imMkf6iCe=BKc9mDK7>`0
+IAnIg1fSA<kefIB;]Cjh`D3
+R2
+R3
+w1760250136
+8D:\Users\86187\Desktop\eda\test\lamp_df.v
+FD:\Users\86187\Desktop\eda\test\lamp_df.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\Users\86187\Desktop\eda\test\lamp_df.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Users\86187\Desktop\eda\test\lamp_df.v|
+!i113 0
+R6
+R0
+vtb
+R1
+!i10b 1
+!s100 Sc22PNIJC>FP]j>m58kn>3
+I0ak;2PQBiY@R;WM6o^TDC3
+R2
+R3
+w1760250174
+8D:\Users\86187\Desktop\eda\test\tb.v
+FD:\Users\86187\Desktop\eda\test\tb.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\Users\86187\Desktop\eda\test\tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Users\86187\Desktop\eda\test\tb.v|
+!i113 0
+R6
+R0
